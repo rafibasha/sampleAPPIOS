@@ -20,7 +20,7 @@
     
     int value=1;
     UIImageView *img;
-    UILabel *newlabel;
+    UILabel *newlabel2=[UILabel new];
 }
 
 

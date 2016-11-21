@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     int value=1;
+    UIImageView *img;
     
 }
 
